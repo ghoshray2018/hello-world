@@ -1,5 +1,15 @@
 # hello-world
 MY first GitHub repository
-Hi All!
 
-I am a newbie coder and want to use GitHub to further my learning in HTML/CSS.
+<html>
+    <head>
+      <title>My first page</title>
+    </head>
+  
+  
+    <body>
+     <H1>This is a test</h1>
+    </body>
+  
+</html>
+
